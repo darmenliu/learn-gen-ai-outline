@@ -229,12 +229,62 @@
 
 ## 第四部分：工程实践
 
-### 开发环境与工具
-- 开发框架选择
-- 模型部署方案
-- 性能优化
-- 资源管理
-- 监控与调试
+### 常用的提示词模板
 
+
+### 平台及工具
+
+#### 智能体低代码
+
+- COZE
+- DIFY
+
+#### 写代码
+
+- Github Copilot
+- Cursor
+- Codeium
+    - Windsurf
+
+#### 图像及视频生成
+- Madejourney
+- Stable Diffusion
+- Civitai
+- Flux
+
+#### 音乐生成
+
+- suno
+- udio
+- 
+
+### 大语言模型
+
+- OpenAI models
+    - GPT4
+    - GPT4o
+- Claude models
+    - claude 3.5
+- Google models
+    - Gemini 1.5
+- Aliyun
+    - qianwen 2.5
+- Deepseek
+    - deepseek 2.5
+- Llama models
+    - llama 3.1
+    - llama 3.2
+- Mixtral
+    - mixtral 
+
+### 图像生成模型
+
+- DALL-E
+- Stable diffusion models
+- Flux models
+
+### 音乐生成模型
+
+[AI 工具集](https://ai-bot.cn/)
 [参考链接: Generative AI Handbook](https://genai-handbook.github.io)
 
